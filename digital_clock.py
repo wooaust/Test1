@@ -7,3 +7,6 @@ window.geometry("600x300")
 window.mainloop()
 
 # this is a line to add
+
+# this is another line to add
+# this is another line to add
