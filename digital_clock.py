@@ -17,3 +17,5 @@ window.mainloop()
 # line no 13
 
 # this line is to test rstudio
+
+# this line is to test git difftool
